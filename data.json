@@ -188,103 +188,9 @@
     "name": "Argentina",
     "langCode": "es",
     "flagImg": "https://flagpedia.net/data/flags/h80/ar.png",
-    "attractions": [
-        {
-          "type": "capital",
-          "name": "Buenos Aires",
-          "cityTown": "",
-          "stateRegion": "ARG",
-          "location": {
-            "latitude": -34.6037,
-            "longitude": 58.3816
-          }
-        },
-        {
-          "type": "Mountain",
-          "name": "Aconcagua",
-          "cityTown": "",
-          "stateRegion": "ARG",
-          "location": {
-            "latitude": -32.653179,
-            "longitude": -70.010864
-          }
-        },
-        {
-          "type": "Waterfalls",
-          "name": "Iguazú Falls",
-          "cityTown": "",
-          "stateRegion": "ARG",
-          "location": {
-            "latitude": 25.6953,
-            "longitude": 54.4367
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "Ushuaia",
-          "cityTown": "",
-          "stateRegion": "USH",
-          "location": {
-            "latitude": 54.8019,
-            "longitude": 68.3030
-          }
-        },
-        {
-          "type": "nationalPark",
-          "name": "Nahuel Huapi Park",
-          "cityTown": "Sydney",
-          "stateRegion": "NSW",
-          "location": {
-            "latitude": 41.0001,
-            "longitude": 71.5000
-          }
-        }
-      ],
-    "phrases": [
-        "Buenos días = Good morning",
-        "Buenas tardes = Good afternoon",
-        "Mi Gente = My people",
-        "Mucho gusto = Nice to meet you",
-        "Yo no comprendo = I do not understand"
-      ],
-    "quiz": [
-        {
-          "question": "Which city is the capital of Argentina?",
-          "answers": [
-            "Buenos Aires",
-            "Cordoba",
-            "Rosario",
-            "Mendoza"
-          ]
-        },
-        {
-          "question": "How many countries does Argentina share a land border with?",
-          "answers": [
-            "2",
-            "4",
-            "5",
-            "6"
-          ]
-        },
-        {
-          "question": "What is the name of the highest mountain in Argentina?",
-          "answers": [
-            "Aconcagua",
-            "Ojos del Salado",
-            "Monte Pissis",
-            "Llullaillaco"
-          ]
-        },
-        {
-          "question": "Discounting Spain, over 25 million of Argentina's population have at least one immigrant ancestor from which European country?",
-          "answers": [
-            "Italy",
-            "France",
-            "Germany",
-            "Belgium"
-          ]
-        }
-      ]
+    "attractions": [],
+    "phrases": [],
+    "quiz": []
   },
   {
     "id": 3,
@@ -292,103 +198,9 @@
     "name": "Belgium",
     "langCode": "nl",
     "flagImg": "https://flagpedia.net/data/flags/h80/be.png",
-    "attractions": [
-        {
-          "type": "capital",
-          "name": "Brussels",
-          "cityTown": "",
-          "stateRegion": "02",
-          "location": {
-            "latitude": -34.6037,
-            "longitude": 58.3816
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "Grand Palace",
-          "cityTown": "",
-          "stateRegion": "B-1000",
-          "location": {
-            "latitude": 50.8468,
-            "longitude": 4.3524
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "Atomium",
-          "cityTown": "",
-          "stateRegion": "B-1020",
-          "location": {
-            "latitude": 50.8949,
-            "longitude": 4.3416
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "The Canals of Bruges",
-          "cityTown": "",
-          "stateRegion": "B-050",
-          "location": {
-            "latitude": 51.1317,
-            "longitude": 3.1403
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "St. Peter's Church",
-          "cityTown": "Leuven",
-          "stateRegion": "3000",
-          "location": {
-            "latitude": 50.8795,
-            "longitude": 4.7012
-          }
-        }
-      ],
-    "phrases": [
-        "Goeiedag = Hello",
-        "Hoeveel kost...?  = How much...?",
-        "Graag gedaan = You're welcome",
-        "Ik ben vegetariër = I'm a vegetarian",
-        "Ik heb een dokter nodig = I need a doctor"
-      ],
-    "quiz": [
-        {
-          "question": "Which Belgian province shares a border with Germany?",
-          "answers": [
-            "Limburg",
-            "Namur",
-            "Liège",
-            "Hainaut"
-          ]
-        },
-        {
-          "question": "What is the name of Hercule Poirot's chronicler and best friend?",
-          "answers": [
-            "Chichester",
-            "Totton",
-            "Maltravers",
-            "Hastings"
-          ]
-        },
-        {
-          "question": "Which of these countries was once part of the Belgian empire?",
-          "answers": [
-            "Mali",
-            "Democratic Republic of the Congo",
-            "Kenya",
-            "South Africa"
-          ]
-        },
-        {
-          "question": "Which river, which rises in France, flows through Antwerp and is the longest in Belgium?",
-          "answers": [
-            "Meuse",
-            "Schelde",
-            "Haine",
-            "Our"
-          ]
-        }
-      ]
+    "attractions": [],
+    "phrases": [],
+    "quiz": []
   },
   {
     "id": 4,
@@ -396,132 +208,9 @@
     "name": "China",
     "langCode": "zh",
     "flagImg": "https://flagpedia.net/data/flags/h80/cn.png",
-    "attractions": [
-        {
-          "type": "capital",
-          "name": "Beijing",
-          "cityTown": "",
-          "stateRegion": "10",
-          "location": {
-            "latitude": 39.9042,
-            "longitude": 116.4074
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "The Great Wall of China",
-          "cityTown": "",
-          "stateRegion": "10",
-          "location": {
-            "latitude": 40.4319,
-            "longitude": 116.5704
-          }
-        },
-        {
-          "type": "Palace",
-          "name": "The Summer Palace",
-          "cityTown": "Beijing",
-          "stateRegion": "10",
-          "location": {
-            "latitude": 40.0000,
-            "longitude": 116.2755
-          }
-        },
-        {
-          "type": "Garden",
-          "name": "Classical Gardens of Suzhou",
-          "cityTown": "Suzhou",
-          "stateRegion": "512",
-          "location": {
-            "latitude": 31.3242,
-            "longitude": 120.6300
-          }
-        },
-        {
-          "type": "nationalPark",
-          "name": "Uluru-Kata Tjuta National Park",
-          "cityTown": "",
-          "stateRegion": "NT",
-          "location": {
-            "latitude": -25.3437797,
-            "longitude": 131.0346514
-          }
-        },
-        {
-          "type": "Lake",
-          "name": "Hangzhou's Historic West Lake",
-          "cityTown": "Hangzhou",
-          "stateRegion": "310000",
-          "location": {
-            "latitude": 30.212290,
-            "longitude": 120.100731
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "Leshan Giant Buddha",
-          "cityTown": "Sichuan",
-          "stateRegion": "0833",
-          "location": {
-            "latitude": 29.5441,
-            "longitude": 103.7715
-          }
-        }
-      ],
-    "phrases": [
-        "Nǐhǎo ma? = How are you?",
-        "Zǎoshang hǎo = Good morning",
-        "Jǐwèi? = How many people",
-        "Duōshao qián? = How much is it?",
-        "Shēngri kuàilè! = Happy Birthda"
-      ],
-    "quiz": [
-        {
-          "question": "What is the currency of China?",
-          "answers": [
-            "Yen",
-            "Rupees",
-            "Renminbi",
-            "None of the above"
-          ]
-        },
-        {
-          "question": "Where is China?",
-          "answers": [
-            "Eastern Europe",
-            "East Asia",
-            "Central Asia",
-            "Southern Asia"
-          ]
-        },
-        {
-          "question": "China is geographically the __ largest country in the world",
-          "answers": [
-            "1st",
-            "2nd",
-            "3rd",
-            "4th"
-          ]
-        },
-        {
-          "question": "What is the full name of China?",
-          "answers": [
-            "China",
-            "People's China",
-            "Republic of China",
-            "People's Republic of China"
-          ]
-        },
-        {
-          "question": "How many time zones does China have?",
-          "answers": [
-            "One",
-            "Two",
-            "Three",
-            "Four"
-          ]
-        }
-      ]
+    "attractions": [],
+    "phrases": [],
+    "quiz": []
   },
   {
     "id": 5,
@@ -529,122 +218,9 @@
     "name": "Mexico",
     "langCode": "es",
     "flagImg": "https://flagpedia.net/data/flags/h80/mx.png",
-    "attractions": [
-        {
-          "type": "capital",
-          "name": "Mexico City",
-          "cityTown": "",
-          "stateRegion": "+52-55",
-          "location": {
-            "latitude": 19.4326,
-            "longitude": 99.1332
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "Great Pyramid of Cholula",
-          "cityTown": "Cholula, Puebla",
-          "stateRegion": "72760",
-          "location": {
-            "latitude": 19.0564,
-            "longitude": 98.3016
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "Uxmal",
-          "cityTown": " Yucatán",
-          "stateRegion": "997",
-          "location": {
-            "latitude": 20.3599,
-            "longitude": 89.7684
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "El Tajin",
-          "cityTown": "Veracruz",
-          "stateRegion": "93537",
-          "location": {
-            "latitude": 20.4303,
-            "longitude": 97.3822
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "Chichen Itza",
-          "cityTown": "Yucatán",
-          "stateRegion": "97170",
-          "location": {
-            "latitude": 20.6843,
-            "longitude": 88.5678
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "Tulum",
-          "cityTown": "Quintana Roo",
-          "stateRegion": "984",
-          "location": {
-            "latitude": 20.2114,
-            "longitude": 87.4654
-          }
-        }
-      ],
-    "phrases": [
-        "Buenos días = Good morning",
-        "Buenas tardes = Good afternoon",
-        "Mi Gente = My people",
-        "Mucho gusto = Nice to meet you",
-        "Yo no comprendo = I do not understand"
-      ],
-    "quiz": [
-        {
-          "question": "What is the capital of Mexico?",
-          "answers": [
-            "Mexico City",
-            "Tijuana",
-            "León",
-            "None of the above"
-          ]
-        },
-        {
-          "question": "What is the currency in use in Mexico?",
-          "answers": [
-            "Rand",
-            "Peso",
-            "Dollar",
-            "None of the above"
-          ]
-        },
-        {
-          "question": "How many states are there in Mexico?",
-          "answers": [
-            "11",
-            "21",
-            "31",
-            "41"
-          ]
-        },
-        {
-          "question": "When was the Mexican-American war?",
-          "answers": [
-            "1646 to 1648",
-            "1746 to 1748",
-            "1846 to 1848",
-            "1946 to 1948"
-          ]
-        },
-        {
-          "question": "How many time zones has Mexico?",
-          "answers": [
-            "One",
-            "Two",
-            "Three",
-            "Four"
-          ]
-        }
-      ]
+    "attractions": [],
+    "phrases": [],
+    "quiz": []
   },
   {
     "id": 6,
@@ -652,71 +228,28 @@
     "name": "New Zealand",
     "langCode": "en",
     "flagImg": "https://flagpedia.net/data/flags/h80/nz.png",
-    "attractions": [
-        {
-          "type": "capital",
-          "name": "Wellington",
-          "cityTown": "",
-          "stateRegion": "04",
-          "location": {
-            "latitude": -41.286461,
-            "longitude": 174.776230
-          }
-        }
-      ],
-      "phrases": [
-        "Sweet as, bro!",
-        "Crack up",
-        "Bro or Cuz",
-        "Yes but can you handle the jandal?",
-        "Yeah nah"
-      ],
-    "quiz": [
-        {
-          "question": "How tall is Aoraki Mount Cook??",
-          "answers": [
-            "3,518 metres",
-            "3,754 metres",
-            "3,945 metres",
-            "4,289 metres"
-          ]
-        },
-        {
-          "question": "When did New Zealand gain independence from Britain?",
-          "answers": [
-            "1917",
-            "1927",
-            "1937",
-            "1947"
-          ]
-        },
-        {
-          "question": "What animal can you find on a 1 dollar coin?",
-          "answers": [
-            "Kakapo",
-            "Seal",
-            "Kiwi",
-            "Takahe"
-          ]
-        },
-        {
-          "question": "When was NZ Rugby Football Union founded?",
-          "answers": [
-            "1852",
-            "1872",
-            "1892",
-            "1902"
-          ]
-        },
-        {
-          "question": "What is a Tuatara?",
-          "answers": [
-            "Mammal",
-            "Reptile",
-            "Bird",
-            "Insect"
-          ]
-        }
-      ]
+    "attractions": [],
+    "phrases": [],
+    "quiz": []
+  },
+  {
+    "id": 7,
+    "continent": "Africa",
+    "name": "South Africa",
+    "langCode": "af",
+    "flagImg": "https://flagpedia.net/data/flags/h80/za.png",
+    "attractions": [],
+    "phrases": [],
+    "quiz": []
+  },
+  {
+    "id": 8,
+    "continent": "Europe",
+    "name": "United Kingdom",
+    "langCode": "en",
+    "flagImg": "https://flagpedia.net/data/flags/h80/gb.png",
+    "attractions": [],
+    "phrases": [],
+    "quiz": []
   }
 ]
