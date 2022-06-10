@@ -659,58 +659,8 @@
           "cityTown": "",
           "stateRegion": "04",
           "location": {
-            "latitude": 41.2924,
-            "longitude": 174.7787
-          }
-        },
-        {
-          "type": "nationalPark",
-          "name": "Tongariro National Park",
-          "cityTown": "Whakapapa Village",
-          "stateRegion": "07",
-          "location": {
-            "latitude": 39.1928,
-            "longitude": 175.5938
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "Queenstown Skyline Gondola",
-          "cityTown": " Queenstown",
-          "stateRegion": "03",
-          "location": {
-            "latitude": 45.0302,
-            "longitude": 168.6615
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "Onsen Hot Pools",
-          "cityTown": " Queenstown",
-          "stateRegion": "03",
-          "location": {
-            "latitude": 45.0302,
-            "longitude": 168.6615
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "Shotover River Rafting",
-          "cityTown": "Arrowtown",
-          "stateRegion": "03",
-          "location": {
-            "latitude": 44.9425,
-            "longitude": 168.8283
-          }
-        },
-        {
-          "type": "attraction",
-          "name": "Skydive Wanaka Experience",
-          "cityTown": "Wanaka",
-          "stateRegion": "03",
-          "location": {
-            "latitude": 44.7252,
-            "longitude": 169.2475
+            "latitude": -41.286461,
+            "longitude": 174.776230
           }
         }
       ],
